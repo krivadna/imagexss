@@ -3,8 +3,6 @@
 
 <div align="center">
 
-![Security Testing](https://img.shields.io/badge/Security-Testing-red?style=for-the-badge&logo=security&logoColor=white)
-
 [![Python Version](https://img.shields.io/badge/Security-Research-red.svg)](https://kalkikrivadna.com/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=krivadna.image-xss-injection)
 
@@ -25,14 +23,10 @@
 - 🛡️ Educational documentation included
 - ⚡ Ready-to-use proof of concept files
 
-## 🎯 Use Cases
-
-
-
 
 ## 🎥 Live Demo
 
-[![Watch Demo](https://img.shields.io/badge/Watch_Demo-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@Krivadna)
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-Medium-black?style=for-the-badge&logo=medium)](https://youtube.com/shorts/5oUKJW56_A4?si=9ujJLBsBDQmBw30c)
 
 ## 🛠️ Creating Custom Payloads
 
