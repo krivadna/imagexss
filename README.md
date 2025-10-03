@@ -22,7 +22,7 @@
 
 ## 🎥 Live Demo on Exif.tools
 
-[![Watch Demo](https://img.shields.io/badge/Watch_Demo-Medium-black?style=for-the-badge&logo=medium)](https://youtube.com/shorts/5oUKJW56_A4?si=9ujJLBsBDQmBw30c)
+[![Watch Demo]((https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/5oUKJW56_A4?si=9ujJLBsBDQmBw30c)
 
 
 ## 📚 Medium Article
