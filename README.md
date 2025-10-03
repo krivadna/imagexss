@@ -1,5 +1,4 @@
 
-```markdown
 # 🖼️ Image XSS Injection Testing Files
 
 <div align="center">
