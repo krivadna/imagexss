@@ -10,15 +10,6 @@
   <img src="https://img.shields.io/badge/Pentesting-Tools-black?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </div>
 
-## ✨ Features
-
-- 🖼️ Pre-crafted images with XSS payloads in EXIF metadata
-- 🎯 Multiple payload variations for different scenarios
-- 🔬 Test cases for common vulnerabilities
-- 📊 Organized by attack vector and complexity
-- 🛡️ Educational documentation included
-- ⚡ Ready-to-use proof of concept files
-
 
 ## 🎥 Live Demo on Exif.tools
 
