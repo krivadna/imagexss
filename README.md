@@ -3,8 +3,6 @@
 
 <div align="center">
 
-[![Clone Repository](https://img.shields.io/badge/📥_Clone_This_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/krivadna/image-xss-injection.git)
-
 ![Security Testing](https://img.shields.io/badge/Security-Testing-red?style=for-the-badge&logo=security&logoColor=white)
 
 [![Python Version](https://img.shields.io/badge/Security-Research-red.svg)](https://kalkikrivadna.com/)
