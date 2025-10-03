@@ -1,7 +1,4 @@
 
-# 🖼️ Image XSS Injection Testing Files
-
-
 
 ## ⚠️ Legal Disclaimer
 
@@ -31,3 +28,22 @@ If this repository helped your security research:
 [![Support Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/kalkikrivadna)
 
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/)
+[![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyberkalkimatrixl)
+
+</div>
+
+
+<div align="center">
+  <sub>Built with ❤️ by Cyber Kalki</sub>
+</div>
+
+<!-- Custom Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
+</p>
