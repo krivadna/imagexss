@@ -22,14 +22,14 @@
 
 ## 🎥 Live Demo on Exif.tools
 
-[![Watch Demo]((https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/5oUKJW56_A4?si=9ujJLBsBDQmBw30c)
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/5oUKJW56_A4?si=9ujJLBsBDQmBw30c)
+
 
 
 ## 📚 Medium Article
 
 [![Read Article](https://img.shields.io/badge/Read_Article-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@krivadna/image-xss-on-exif-tools-hacking-exif-tools-by-image-injection-by-cyber-kalki-63b7d1261a19)
 
-My research on Exif.tools vulnerability demonstrating real-world exploitation.
 
 ## ⚠️ Legal Disclaimer
 
