@@ -1,10 +1,6 @@
 
 # 🖼️ Image XSS Injection Testing Files
 
-<div align="center">
-
-[![Python Version](https://img.shields.io/badge/Security-Research-red.svg)](https://kalkikrivadna.com/)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=krivadna.image-xss-injection)
 
 > 🔐 Images with XSS payloads injected into EXIF metadata for security testing and demonstration
 </div>
@@ -24,21 +20,14 @@
 - ⚡ Ready-to-use proof of concept files
 
 
-## 🎥 Live Demo
+## 🎥 Live Demo on Exif.tools
 
 [![Watch Demo](https://img.shields.io/badge/Watch_Demo-Medium-black?style=for-the-badge&logo=medium)](https://youtube.com/shorts/5oUKJW56_A4?si=9ujJLBsBDQmBw30c)
 
-## 🛠️ Creating Custom Payloads
 
-Want to create your own? Check the documentation:
-```bash
-# Example using exiftool
-exiftool -Comment='<script>alert("XSS")</script>' image.jpg
-```
+## 📚 Medium Article
 
-## 📚 Related Research
-
-[![Read Article](https://img.shields.io/badge/Read_Article-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@Krivadna)
+[![Read Article](https://img.shields.io/badge/Read_Article-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@krivadna/image-xss-on-exif-tools-hacking-exif-tools-by-image-injection-by-cyber-kalki-63b7d1261a19)
 
 My research on Exif.tools vulnerability demonstrating real-world exploitation.
 
