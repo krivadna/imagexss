@@ -31,15 +31,6 @@
 
 My research on Exif.tools vulnerability demonstrating real-world exploitation.
 
-## 💼 Professional Services
-
-Contact for:
-- 🔍 Security audits and penetration testing
-- 🎯 Custom payload development
-- 💻 Security training and workshops
-- 🛠️ Vulnerability assessment
-
-
 ## ⚠️ Legal Disclaimer
 
 **FOR EDUCATIONAL AND AUTHORIZED SECURITY TESTING ONLY**
@@ -56,16 +47,4 @@ If this repository helped your security research:
 
 [![Support Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/kalkikrivadna)
 
-
-## 📊 Statistics
-
-![GitHub Stars](https://img.shields.io/github/stars/krivadna/image-xss-injection?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/krivadna/image-xss-injection?style=social)
-![GitHub Watchers](https://img.shields.io/github/watchers/krivadna/image-xss-injection?style=social)
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by Cyber Kalki | Security Researcher</sub>
-</div>
 
