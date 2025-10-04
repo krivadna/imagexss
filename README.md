@@ -1,6 +1,5 @@
 
-
-![IMG-20251003-221148](https://i.ibb.co/wFmJpNVD/IMG-20251003-221148.jpg)
+<img src="https://i.ibb.co/wFmJpNVD/IMG-20251003-221148.jpg" alt="IMG-20251003-221148" width="600">
 
 ## ⚠️ Legal Disclaimer
 
