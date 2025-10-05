@@ -14,6 +14,8 @@
   
 ## 🎥 Live Demo on Exif.tools
 
+You can test these images on exif.tools as its still vulnerable.
+
 [![Watch Demo](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/5oUKJW56_A4?si=9ujJLBsBDQmBw30c)
 
 
